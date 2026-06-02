@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Problemwege Sandhof (aus GAIA-MV)</name>
+    <Style id="line0">
+      <LineStyle><color>ff0000ff</color><width>3</width></LineStyle>
+    </Style>
+    <Style id="line1">
+      <LineStyle><color>ff0000ff</color><width>3</width></LineStyle>
+    </Style>
+    <Placemark>
+      <name>Problemweg fid=110</name>
+      <styleUrl>#line0</styleUrl>
+      <LineString><tessellate>1</tessellate><coordinates>12.335552,53.608944,0 12.335964,53.602402,0 12.335025,53.594677,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Problemweg fid=111</name>
+      <styleUrl>#line1</styleUrl>
+      <LineString><tessellate>1</tessellate><coordinates>12.333305,53.592229,0 12.335667,53.588796,0 12.338703,53.586864,0</coordinates></LineString>
+    </Placemark>
+  </Document>
+</kml>
